@@ -12,7 +12,7 @@
 - 🔭 **Currently working on:** Data Science projects & Business Analytics  
 - 🌱 **Exploring:** Generative AI, Reinforcement Learning, Machine Learning 
 - 💬 **Ask me about:** Python, Data Visualization, Predictive Modeling  
-- 📫 **Reach out:** [Email Me](mailto:shreyasuresh0407@gmail.com) | [LinkedIn](https://www.linkedin.com/in/shreya4798)  
+- 📫 **Reach out:** [Email Me](mailto:shreyasuresh0407@gmail.com) | [LinkedIn](https://www.linkedin.com/in/shreya4798) | [Kaggle](https://www.kaggle.com/) 
 - 🎯 **Goal:** To drive **data-driven decision-making** in business & AI  
 
 ---
@@ -48,6 +48,7 @@
 ## 🌍 **Let's Connect!**
 📧 **Email:** [shreyasuresh0407@gmail.com](mailto:shreyasuresh0407@gmail.com)  
 🔗 **LinkedIn:** [linkedin.com/in/shreya4798](https://www.linkedin.com/in/shreya4798)  
+   **Kaggle** [Kaggle](https://www.kaggle.com/)
 🚀 Open to **collaborations, internships, and full-time opportunities!**  
 
 ---
